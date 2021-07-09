@@ -457,6 +457,25 @@
         top: -0.2rem;
         margin-right: .7rem;
     }
+    
+    .footer_section .fotter_bottom .flot .part {
+        float: left;
+        width: 100%;
+    }
+    .footer_section .fotter_bottom .flot .part_two {
+        float: left;
+        width: 100%;
+    }
+    .footer_section .fotter_bottom .flot .part_three .inner_part {
+        text-align: center;
+    }
+    .footer_section .fotter_bottom .flot .part .inner_part {
+        text-align: center !important;
+        padding-left: 5rem;
+    }
+    .footer_section {
+        height: 103rem;
+    }
 }
 @media all and (max-width:410px) {
     .fixed_with {
