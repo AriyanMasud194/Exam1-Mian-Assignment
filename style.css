@@ -1569,7 +1569,7 @@ label {
 }
 
 .footer_section .fotter_bottom .flot .part .inner_part {
-  text-align: center;
+	text-align: left;
 }
 
 .footer_section .fotter_bottom .flot .part .inner_part img {
@@ -1606,9 +1606,11 @@ label {
 }
 
 .footer_section .fotter_bottom .flot .part_three .inner_part {
-  text-align: center;
-  margin-top: 1rem;
+	text-align: center;
+	margin-top: 1rem;
+	text-align: right;
 }
+
 
 .footer_section .fotter_bottom .flot .part_three .inner_part i {
   width: 3.5rem;
