@@ -782,6 +782,7 @@ label {
   font-size: 1.2rem;
   color: #606060;
   font-weight: 300;
+  cursor: pointer;
 }
 
 .courses_section .card .inner_card p span {
