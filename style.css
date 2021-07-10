@@ -615,9 +615,8 @@ label {
 }
 
 .about_section .main_about .right .midd .righ {
-    width: 100%;
-    padding-right: 1rem;
-    box-sizing: border-box;
+  width: 100%;
+}
 
 .about_section .main_about .right .midd .righ p {
   font-size: 1.4rem;
